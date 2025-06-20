@@ -25,6 +25,7 @@
     height: 100px;
     display: flex;
     overflow: hidden;
+    
 }
 
 .logo{
@@ -115,7 +116,7 @@
     padding: 50px 0;
 }
 .text{
-    width: 50%;
+    width: 60%;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -572,6 +573,12 @@ iframe{
     color: #fff;
     font-size: 18px;
 }
+
+.pie span {
+   color: #f64b3c;
+   
+}
+
 
 
 /* FIN DE SECCION 9 */
